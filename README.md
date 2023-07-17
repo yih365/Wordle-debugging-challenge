@@ -1,6 +1,6 @@
 # Wordle CodePath Debugging Challange
 
-This is a version of the unit 1 and102 assignment from codepath that has 6 bugs added to it.
+This is a version of the unit 1 and102 assignment from codepath that has 5 bugs added to it.
 
 
 the final version will look like this
